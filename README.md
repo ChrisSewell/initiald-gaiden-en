@@ -24,6 +24,15 @@ and apply it with any IPS patcher, such as
 [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Flips. The patched ROM is 512 KB. It plays on DMG/Super Game Boy emulators
 and flash carts that support MBC1.
 
+### Optional patches
+
+Apply these after the translation if you want them. The translation works
+fine without them.
+
+| Patch | What it does |
+|---|---|
+| [Quieter tire squeal](mods/squeal-low-quiet/) | Plays the piercing launch and drift squeal two octaves lower, at less than half the volume |
+
 ## Building from source
 
 Needs Python 3.10 or later; the build uses only the standard library.
@@ -46,6 +55,7 @@ line against the game's size limits before anything is built.
 | `graphics/menus.json` | Redrawn menu and course-name graphics |
 | `font/lowercase.txt`, `font/menu5x7.txt` | The added fonts, as ASCII art |
 | `script/script.tsv` | Master table: every string's ROM location, original bytes, Japanese and English |
+| `mods/` | Optional patches, each with its own build script and README |
 
 `tools/dump_script.py <rom> script` regenerates `script.tsv` and `script.txt`
 from the original ROM.
