@@ -1,0 +1,1890 @@
+[S000] 0x097C0 (dialog, 57 bytes)
+    <open>きょうも とうげは はしりやで<br>
+    いっぱいだなぁ おれも はやく<br>
+    くるまを かって はしりたいな・・・<wait>
+    <end>
+
+[S001] 0x097F9 (dialog, 59 bytes)
+    <open>いけたに せんぱ-い!<br>
+    ついに くるま かっちゃいました!<wait>
+    <clear>これで おれも<br>
+    はしりや でびゅ-です!<wait>
+    <end>
+
+[S002] 0x09834 (dialog, 68 bytes)
+    <open>おっ いつき! くるま かったのか?<br>
+    じゃあ さっそく はしりやの<br>
+    きびしさを おしえてやるぜ!<wait>
+    <clear>いつき! かかってこい!<wait>
+    <end>
+
+[S003] 0x09878 (dialog, 28 bytes)
+    <open>よ-し せんぱい!<br>
+    かくごして くださいよ!<wait>
+    <end>
+
+[S004] 0x0A00E (dialog, 38 bytes)
+    <open>やっぱりせんぱいは はやいっすね-<br>
+    もういっかいちょうせんするっす<wait>
+    <end>
+
+[S005] 0x0A034 (dialog, 24 bytes)
+    <open>ちきしょ-<br>
+    いつき おまえ やるもんだな<wait>
+    <end>
+
+[S006] 0x09894 (dialog, 146 bytes)
+    <open>やったぜ-!まぐれとは いえ<br>
+    せんぱいに かったぜ-!<wait>
+    <clear>このいきおいで みょうぎさん に<br>
+    えんせい してみよう<wait>
+    <clear>・・・みょうぎさん は<br>
+    れべるが たかいなぁ<wait>
+    <clear>よし! あの「すぽしび」に<br>
+    ばとるを いどむぜ!<wait>
+    <clear>あの-<br>
+    おれと しょうぶ してください<wait>
+    <end>
+
+[S007] 0x0A04C (dialog, 49 bytes)
+    <open>く- さすが だうんひる<br>
+    さいそくっす おねがいだから<br>
+    もういっかい しょうぶして<wait>
+    <end>
+
+[S008] 0x0A07D (dialog, 17 bytes)
+    <open>うそだろ<br>
+    やるじゃねえか<wait>
+    <end>
+
+[S009] 0x0A1B4 (dialog, 27 bytes)
+    <open>やっぱり すごいや<br>
+    けど つぎはかつっす<wait>
+    <end>
+
+[S010] 0x0A1CF (dialog, 10 bytes)
+    <open>やるな....<wait>
+    <end>
+
+[S011] 0x09926 (dialog, 57 bytes)
+    <open>なんだ おまえ?<br>
+    だれだか しらねぇが<wait>
+    <clear>だうんひる さいそくの おれが<br>
+    あいてに なってやる!<wait>
+    <end>
+
+[S012] 0x0A2A5 (dialog, 77 bytes)
+    <open>・・・でも ほんとうに<br>
+    よく ここまで これたよな・・・<wait>
+    <clear>いろんな ひとと<br>
+    ばとるした おかげだな・・・<br>
+    そして もちろん おまえもな!<wait>
+    <end>
+
+[S013] 0x0995F (dialog, 57 bytes)
+    <open>だうんひる さいそく?<br>
+    えらいやつに いどんじゃったかなぁ<br>
+    よ-し!きあいをいれて がんばるぜ!<wait>
+    <end>
+
+[S014] 0x09998 (dialog, 136 bytes)
+    <open>おれって さいのうあるのかな?<wait>
+    <clear>これなら でんせつの はしりや<br>
+    たかはしきょうだい にも<br>
+    かてるかもしれないぞ<wait>
+    <clear>よし! あかぎさん に いこう!<wait>
+    <clear>・・・・・・・・・・・・・・・・・・<br>
+    たかはしきょうだい は どこだ?<br>
+    ばとるを もうしこむぜ!<wait>
+    <end>
+
+[S015] 0x0A08E (dialog, 53 bytes)
+    <open>まだ たかはしきょうだいに<br>
+    ちょうせんするのは はやいかな・・・<br>
+    けど こんどは かつっす!<wait>
+    <end>
+
+[S016] 0x0A0C3 (dialog, 18 bytes)
+    <open>なんだよ はやいじゃねえか<wait>
+    <end>
+
+[S017] 0x09A20 (dialog, 62 bytes)
+    <open>りょうすけさん と けいすけさんに<br>
+    ばとるを いどむのは10ねんはやい!<br>
+    おまえなんて おれでじゅうぶんさ!<wait>
+    <end>
+
+[S018] 0x09A5E (dialog, 48 bytes)
+    <open>たかはしきょうだい と<br>
+    ばとる するためにも<br>
+    ここで おまえを ぶっちぎるぜ!<wait>
+    <end>
+
+[S019] 0x09A8E (dialog, 114 bytes)
+    <open>うわさのはしりやぎゃる<br>
+    「まこ&さゆき」を さがしに<br>
+    うすいとうげ に いってみよう<wait>
+    <clear>おっ! かのじょたちが いるぞ!<br>
+    だめでもともと こえをかけてみよう!<wait>
+    <clear>あの-<br>
+    おれと で-と してくださ-い!<wait>
+    <end>
+
+[S020] 0x0A3C6 (dialog, 46 bytes)
+    <open>ふう きょうも はちろくの<br>
+    ちょうしは いい みたいだな<br>
+    そろそろ かえると するか<wait>
+    <end>
+
+[S021] 0x09B00 (dialog, 41 bytes)
+    <open>で-と?<br>
+    わたしたちに かつことが できたら<br>
+    かんがえて あげるわ<wait>
+    <end>
+
+[S022] 0x09B29 (dialog, 57 bytes)
+    <open>かのじょたちって うすいNO.1の<br>
+    はしりや だったよな・・・・<br>
+    で-との ために がんばるぜ!<wait>
+    <end>
+
+[S023] 0x09B62 (dialog, 25 bytes)
+    <open>きょうは あきなさんで<br>
+    れんしゅう しよう<wait>
+    <end>
+
+[S024] 0x09B7B (dialog, 56 bytes)
+    <open>「ないときっず」の なかざと だ!<br>
+    うちの しんごを たおした<br>
+    「いつき」って やつ しらねえか?<wait>
+    <end>
+
+[S025] 0x09BB3 (dialog, 26 bytes)
+    <open>そっ それは<br>
+    おれの ことなんですが・・・<wait>
+    <end>
+
+[S026] 0x09BCD (dialog, 54 bytes)
+    <open>しんごを たおした ぐらいで<br>
+    いいきに なるなよ!<br>
+    つぎは り-だ-のおれが あいてだ!<wait>
+    <end>
+
+[S027] 0x09C03 (dialog, 57 bytes)
+    <open>ひぇ-「ないときっず」のり-だ-から<br>
+    ばとるを もうしこまれちゃったよ<br>
+    え-い! なるように なるさ!<wait>
+    <end>
+
+[S028] 0x09C3C (dialog, 118 bytes)
+    <open>ちまたで さわがれている<br>
+    らんえぼ ぐんだんを みに<br>
+    みょうぎさん に いこう!<wait>
+    <clear>うわさどおりすごい<br>
+    はしりだな・・・<br>
+    こんどは やつらにちょうせんしよう!<wait>
+    <clear>すいませ-ん<br>
+    おれと ばとる してください!<wait>
+    <end>
+
+[S029] 0x0A1D9 (dialog, 26 bytes)
+    <open>やっぱり はやいや<br>
+    けど がんばるっす<wait>
+    <end>
+
+[S030] 0x0A1F3 (dialog, 28 bytes)
+    <open>やるじゃね-か<br>
+    けど あにきには かてね-ぜ<wait>
+    <end>
+
+[S031] 0x09CB2 (dialog, 70 bytes)
+    <open>いいどきょうしてるじゃねえか・・・<wait>
+    <clear>みせつけてやるぜ!<br>
+    えぼ4 の すごさを そして<br>
+    おれの てくにっくの すごさをな!<wait>
+    <end>
+
+[S032] -> same as S020
+
+[S033] 0x09CF8 (dialog, 51 bytes)
+    <open>いまの うでなら やつらにだって<br>
+    かてる かも しれないぞ!<br>
+    せいいっぱい はしるぜ!<wait>
+    <end>
+
+[S034] 0x09D2B (dialog, 61 bytes)
+    <open>うちのせいじをたおしたのは<br>
+    おまえか?<br>
+    ただもの じゃないな<wait>
+    <clear>こんや うすいとうげ で<br>
+    しょうぶしろ!<wait>
+    <end>
+
+[S035] -> same as S020
+
+[S036] 0x09D68 (dialog, 40 bytes)
+    <open>げげっ<br>
+    「えんぺら-」の り-だ- から<br>
+    ちょうせん されたぞ!<wait>
+    <end>
+
+[S037] 0x09D90 (dialog, 46 bytes)
+    <open>おれと せいじは かくが ちがう!<br>
+    しみゅれ-しょん3で<br>
+    おまえに いどむ!<wait>
+    <end>
+
+[S038] 0x09DBE (dialog, 31 bytes)
+    <open>せいじと おなじように<br>
+    ぶっちぎって やるぜ!<wait>
+    <end>
+
+[S039] 0x09DDD (dialog, 125 bytes)
+    <open>ついに でんせつ の はしりや<br>
+    たかはしきょうだい に<br>
+    いどむ ひが きた!<wait>
+    <clear>あかぎさんに のりこむぞ!<wait>
+    <clear>こんどこそ たかはしきょうだい と<br>
+    ばとる してもらうぞ!<wait>
+    <clear>たかはしきょうだい!<br>
+    おれと ばとる してくれ!<wait>
+    <end>
+
+[S040] 0x0A20F (dialog, 20 bytes)
+    <open>すごい<br>
+    けど がんばるっす<wait>
+    <end>
+
+[S041] 0x0A223 (dialog, 16 bytes)
+    <open>やるな<br>
+    また はしろ-ぜ<wait>
+    <end>
+
+[S042] 0x0A233 (dialog, 56 bytes)
+    <open>やっぱり おれは たくみ みたいには<br>
+    なれないのかな・・・<wait>
+    <clear>いや!<br>
+    ここで にげてちゃ いけない!<wait>
+    <end>
+
+[S043] 0x09E5A (dialog, 71 bytes)
+    <open>いぜんとは かおつきが ちがうな・・<br>
+    あにきのまえに おれを たおしてみろ<wait>
+    <clear>「れっどさんず」NO.2の<br>
+    おれがあいてだ!<wait>
+    <end>
+
+[S044] 0x0A26B (dialog, 31 bytes)
+    <open>いつき・・・すごいよ<br>
+    ほんとうに はやくなったな・・・<wait>
+    <end>
+
+[S045] 0x09EA1 (dialog, 39 bytes)
+    <open>いよいよ たかはしきょうだい との<br>
+    ばとる が はじまる・・・・<wait>
+    <end>
+
+[S046] 0x09EC8 (dialog, 43 bytes)
+    <open>やったぞ! ついに かったぞ!<br>
+    つぎは<br>
+    りょうすけさんに ちょうせんだ!<wait>
+    <end>
+
+[S047] 0x09EF3 (dialog, 51 bytes)
+    <open>まっていたぜ・・・<br>
+    「れっどさんず」の なにかけて<br>
+    ぜんりょくで いどませてもらう!<wait>
+    <end>
+
+[S048] 0x09F26 (dialog, 63 bytes)
+    <open>くぅ-!ついに はしりや あこがれの<br>
+    りょうすけさん との ばとるだ!<br>
+    こっちもぜんりょくで しょうぶだ!<wait>
+    <end>
+
+[S049] 0x09F65 (dialog, 134 bytes)
+    <open>ついに このときがきた・・・<br>
+    おれ たくみが とおくへいっちゃった<br>
+    ような きが してたんだ・・・<wait>
+    <clear>でも このしょうぶに かてたら・・・<br>
+    これからも ずっと いっしょに<br>
+    はしれるとおもう<wait>
+    <clear>だから・・・・・・・・・<br>
+    しょうぶだ!  たくみ!<wait>
+    <end>
+
+[S050] -> same as S020
+
+[S051] 0x09FEB (dialog, 35 bytes)
+    <open>いつき・・・<br>
+    そういうことなら おれも<br>
+    ては ぬかないよ・・・・<wait>
+    <end>
+
+[S052] 0x0A28A (dialog, 27 bytes)
+    <open>はっはっは<br>
+    おれだって<br>
+    やるときは やるぜ!<wait>
+    <end>
+
+[S053] 0x0A2F2 (dialog, 12 bytes)
+    <open>・・・・・・・・・<wait>
+    <end>
+
+[S054] 0x0A2FE (dialog, 57 bytes)
+    <open>これで あきなの だうんひる<br>
+    さいそく こんびの たんじょうだ!<br>
+    たくみ いやとは いわせないぜ<wait>
+    <end>
+
+[S055] 0x0A337 (dialog, 36 bytes)
+    <open>・・・ああ いいよ<br>
+    おまえとは むかしからの<br>
+    こんび だからな<wait>
+    <end>
+
+[S056] 0x0A35B (dialog, 57 bytes)
+    <open>くぅ-っ! もえてきたぜ!<br>
+    さっそく あかぎにでも<br>
+    くりだすと するか!<wait>
+    <clear>いくぜ! あいぼう!<wait>
+    <end>
+
+[S057] 0x0A394 (dialog, 50 bytes)
+    <open>やれやれ・・・・・・でも<br>
+    こういうのも わるくないな・・・<br>
+    よろしく たのむぜ あいぼう<wait>
+    <end>
+
+[S058] 0x0A0D5 (dialog, 49 bytes)
+    <open>く- まけちゃった<br>
+    けど で-とのためにも もういちど<br>
+    ちょうせん させてください!<wait>
+    <end>
+
+[S059] 0x0A106 (dialog, 53 bytes)
+    <open>あら やるじゃない けど<br>
+    やっぱり あなたは このみじゃないの<br>
+    で-とは また こんどね<wait>
+    <end>
+
+[S060] 0x0A13B (dialog, 43 bytes)
+    <open>やっぱり はやいひとは いるんだな<br>
+    けど もういっかい<br>
+    ちょうせんするっす<wait>
+    <end>
+
+[S061] 0x0A166 (dialog, 30 bytes)
+    <open>さすが しんごを<br>
+    まかしただけの ことは<br>
+    あるな<wait>
+    <end>
+
+[S062] 0x0A184 (dialog, 35 bytes)
+    <open>くるまのせいに できないから<br>
+    もういっかい ちょうせんするっす<wait>
+    <end>
+
+[S063] 0x0A1A7 (dialog, 13 bytes)
+    <open>く しんじられね-<wait>
+    <end>
+
+[S064] -> same as S020
+
+[S065] 0x0A3F4 (dialog, 57 bytes)
+    <open>あれっ?<wait>
+    <clear>たくみの おとうさん じゃないですか<br>
+    いつも こんな じかんに はしって<br>
+    いるんですか?<wait>
+    <end>
+
+[S066] 0x0A6E7 (dialog, 33 bytes)
+    <open>おっと ここは おとならしく<br>
+    しぶく かまえて いないとな<wait>
+    <end>
+
+[S067] 0x0A42D (dialog, 37 bytes)
+    <open>あんたは いつかの はしりやくんか<br>
+    まずい ところを みられたかな<wait>
+    <end>
+
+[S068] 0x0A452 (dialog, 40 bytes)
+    <open>おねがい です!<br>
+    ぜひ ぼくに はしりのこつを<br>
+    おしえてください<wait>
+    <end>
+
+[S069] 0x0A47A (dialog, 60 bytes)
+    <open>あれこれしゃべるのは しょうにあわん<br>
+    いっしょに はしってやるから<br>
+    じぶんの めで なにかをつかむんだな<wait>
+    <end>
+
+[S070] 0x0A540 (dialog, 55 bytes)
+    <open>やれやれ とんだめに あったな<br>
+    ん? なんだあいつ? くるまの<br>
+    まえで なにを いっているんだ?<wait>
+    <end>
+
+[S071] 0x0A577 (dialog, 121 bytes)
+    <open>ようやくあえたぜ あきなのはちろく!<br>
+    このまえは おまえの はしりなれた<br>
+    あきな だから まけただけだ!<wait>
+    <clear>こんどは おたがいに はんでの ない<br>
+    みょうぎ で ばとるだ!<br>
+    しょうぶは あしただ! にげるなよ!<wait>
+    <end>
+
+[S072] 0x0A666 (dialog, 42 bytes)
+    <open>いかん<br>
+    たくみの かわりで はしっておいて<br>
+    まけっぱなし は まずいよな<wait>
+    <end>
+
+[S073] 0x0A5F0 (dialog, 118 bytes)
+    <open>・・・あいつ おれを たくみと<br>
+    かんちがい してるな<wait>
+    <clear>ん? たしか たくみは<br>
+    てすとが ちかいって<br>
+    いってたよな・・・・<wait>
+    <clear>(・・・うずうず)<wait>
+    <clear>しょうがねえな<br>
+    ここはおやとして<br>
+    かわりに おれが いってきて やるか<wait>
+    <end>
+
+[S074] 0x0A690 (dialog, 57 bytes)
+    <open>こんな はずは ねぇ!<br>
+    おれの えぼ4が あんな ぽんこつに<br>
+    なんで かてねえんだ ちくしょ-!<wait>
+    <end>
+
+[S075] 0x0A4B6 (dialog, 80 bytes)
+    <open>なかなか いいすじ してるじゃね-か<wait>
+    <clear>しかし はしりを きわめるためには<br>
+    まだ はしりこみが たらんな<br>
+    (ちくしょ-っ つぎは まけね-ぞ)<wait>
+    <end>
+
+[S076] 0x0A506 (dialog, 58 bytes)
+    <open>やっぱり はやいっすね-<br>
+    でも すごく さんこうに なりました<br>
+    また てくを みがいて でなおします<wait>
+    <end>
+
+[S077] 0x0A6C9 (dialog, 30 bytes)
+    <open>・・・く-っ<br>
+    とうげは やっぱり さいこうだぜ<wait>
+    <end>
+
+[S078] 0x0A7EA (dialog, 28 bytes)
+    <open>くそう・・・<br>
+    きたねえ ぶろっくを しやがって<wait>
+    <end>
+
+[S079] 0x0A708 (dialog, 78 bytes)
+    <open>きょうは おそく なっちまったな・・<br>
+    おっ! あれは あきなの はちろく<br>
+    じゃね-か! きてたのか!<wait>
+    <clear>・・・と おもいきや<br>
+    ただの おっさん か<wait>
+    <end>
+
+[S080] 0x0A806 (dialog, 17 bytes)
+    <open>あのおやじ なにものだ?<wait>
+    <end>
+
+[S081] 0x0A756 (dialog, 47 bytes)
+    <open>ぴくっ!<wait>
+    <clear>(・・・おちつけ おちつけ<br>
+    ここは おとなの よゆうを<br>
+    みせないと・・・)<wait>
+    <end>
+
+[S082] 0x0A9D8 (dialog, 42 bytes)
+    <open>くそっ<br>
+    くるまに おおきな さが ないだけに<br>
+    まけたままじゃ ひけね-な<wait>
+    <end>
+
+[S083] 0x0A785 (dialog, 43 bytes)
+    <open>ふるい くるまに ふるい はしりやか<br>
+    おれが いんどうを わたしてやるぜ!<wait>
+    <end>
+
+[S084] 0x0A7B0 (dialog, 58 bytes)
+    <open>ぴくぴく<wait>
+    <clear>(ふっ ここは おとなとして<br>
+    わかいやつに とうげの おくふかさを<br>
+    おしえて やらないとな)<wait>
+    <end>
+
+[S085] 0x0AA02 (dialog, 33 bytes)
+    <open>おれじゃ たかはしさん の かわりは<br>
+    できないのか・・・<wait>
+    <end>
+
+[S086] 0x0A817 (dialog, 63 bytes)
+    <open>いかんいかん<br>
+    つい あつく なっちまったぜ<wait>
+    <clear>しかし ひさしぶりの とおでだ<br>
+    あかぎの ほうにも よってみるか<wait>
+    <end>
+
+[S087] 0x0A8F9 (dialog, 42 bytes)
+    <open>・・・<br>
+    くるまの せいのう が ちがうのを<br>
+    いいわけ には できね-よな<wait>
+    <end>
+
+[S088] 0x0A856 (dialog, 102 bytes)
+    <open>ふっふっふ おれはついてるぜ!<wait>
+    <clear>たかはし きょうだい が<br>
+    いない と おもったら<br>
+    あきなの はちろくに あえるとはな<wait>
+    <clear>りた-んまっち だ!<br>
+    この ばとる<br>
+    ことわるとは いわせないぜ!<wait>
+    <end>
+
+[S089] 0x0A923 (dialog, 33 bytes)
+    <open>・・・<br>
+    なにも いいわけ できね-な<br>
+    かんぱい だぜ<wait>
+    <end>
+
+[S090] 0x0AC1A (dialog, 41 bytes)
+    <open>てごわいな・・・<br>
+    しかし まだまだ わかいやつに<br>
+    まけて られね-ぜ<wait>
+    <end>
+
+[S091] 0x0A8BC (dialog, 61 bytes)
+    <open>おいおい・・・<br>
+    こいつも かんちがい してるぜ<wait>
+    <clear>しかし たくみの まわりには<br>
+    こんな やつら ばかりなのか?<wait>
+    <end>
+
+[S092] 0x0AC43 (dialog, 43 bytes)
+    <open>あんな やつが まだ いたとは・・・<br>
+    とうげは おくが ふかいぜ・・・<wait>
+    <end>
+
+[S093] 0x0A944 (dialog, 45 bytes)
+    <open>よそもの どうしが<br>
+    ひとのじもとで<br>
+    かってに もりあがらないで くれよな<wait>
+    <end>
+
+[S094] 0x0A971 (dialog, 45 bytes)
+    <open>いや わるかったな<br>
+    おれは ここらで たいさんするから<br>
+    きにせず つづけてくれ<wait>
+    <end>
+
+[S095] 0x0A99E (dialog, 58 bytes)
+    <open>そうかんたんには かえせないな<br>
+    たかはしさんの るすを あずかるもの<br>
+    として あんたに いどませて もらう<wait>
+    <end>
+
+[S096] 0x0AA23 (dialog, 100 bytes)
+    <open>たくみの やつ<br>
+    さいきん てすとを りゆうに<br>
+    なかなか みせを てつだわないな<wait>
+    <clear>ながのまで なんて ちょうきょりの<br>
+    はいたつが はいっちまったが<br>
+    しかたがない おれがいってくるか<wait>
+    <end>
+
+[S097] 0x0AB43 (dialog, 37 bytes)
+    <open>ちくしょ-っ<br>
+    さっさと すませるわけには<br>
+    いかなく なっちまったぜ<wait>
+    <end>
+
+[S098] 0x0AA87 (dialog, 122 bytes)
+    <open>なんで あきなの はちろくが こんな<br>
+    ところに いるんだ? おれたちの<br>
+    うすい えんせいを かぎつけたのか?<wait>
+    <clear>・・・・・!<wait>
+    <clear>ちがうやつ が のっている!?<br>
+    まあいい ここにきたからには<br>
+    おれと ばとるを してもらうぜ!<wait>
+    <end>
+
+[S099] 0x0AB68 (dialog, 32 bytes)
+    <open>やっぱり はちろく つかいは<br>
+    うまいやつが おおいぜ<wait>
+    <end>
+
+[S100] 0x0AF62 (dialog, 30 bytes)
+    <open>さてと<br>
+    そろそろ かえって とうふを<br>
+    しこむと するか<wait>
+    <end>
+
+[S101] 0x0AB01 (dialog, 66 bytes)
+    <open>おいおい かんべん してくれよ<br>
+    こっちは はいたつの とちゅうなんだ<wait>
+    <clear>・・・こりゃ さっさと<br>
+    すませるしか ないな・・・<wait>
+    <end>
+
+[S102] 0x0AFA0 (dialog, 28 bytes)
+    <open>ねえねえ いつきくん!<br>
+    なつきね くるまかったの!<wait>
+    <end>
+
+[S103] 0x0AB88 (dialog, 94 bytes)
+    <open>・・・やつ じゃない!?<br>
+    しかも やつよりも はしりが<br>
+    かんせい されている・・・!<wait>
+    <clear>おれの とうげ さいそく りろんの<br>
+    かんせいの ためにも<br>
+    おてあわせ ねがおうか・・・<wait>
+    <end>
+
+[S104] -> same as S102
+
+[S105] 0x0ABE6 (dialog, 52 bytes)
+    <open>・・・あいつら まだいたのか<br>
+    こんどは こっちも はいたつがえりだ<br>
+    ひとつ もんでやるか<wait>
+    <end>
+
+[S106] 0x0AC6E (dialog, 59 bytes)
+    <open>なかなか できるやつ だったな<br>
+    それに くらべて たくみのやつ・・・<br>
+    あいつ さいきん はしっているのか?<wait>
+    <end>
+
+[S107] 0x0ACA9 (dialog, 21 bytes)
+    <open>おやじ-<br>
+    ちょっと でてくるぜ<wait>
+    <end>
+
+[S108] 0x0ACBE (dialog, 92 bytes)
+    <open>あいつ・・・<br>
+    さいきん よるに でかけることが<br>
+    おおいな・・・<wait>
+    <clear>なんだあいつ? てすとべんきょうかと<br>
+    おもったら ともだちの<br>
+    くるまに のって どこへ いくんだ?<wait>
+    <end>
+
+[S109] 0x0AD98 (dialog, 107 bytes)
+    <open>すこしは できるように<br>
+    なったじゃね-か<br>
+    (すごくくやしい)<wait>
+    <clear>しかし おれからみれば<br>
+    まだまだ だな<br>
+    (ものすごく くやしい)<wait>
+    <clear>と いうことで<br>
+    もういちどだ!<br>
+    (とにかく くやしい)<wait>
+    <end>
+
+[S110] 0x0AD1A (dialog, 62 bytes)
+    <open>げっ おやじ!<br>
+    みつかっちまった・・・<wait>
+    <clear>・・・いや じつは<br>
+    こいつらと くるまの れんしゅうを<br>
+    してたんだよ<wait>
+    <end>
+
+[S111] 0x0AD58 (dialog, 64 bytes)
+    <open>なに? おまえが こ-ちだと?<wait>
+    <clear>おまえが ほんとうに<br>
+    ひとに おしえられる ほどなのか<br>
+    おれが たしかめてやる<wait>
+    <end>
+
+[S112] 0x0AE03 (dialog, 21 bytes)
+    <open>やっぱ おやじ には かてね-か<wait>
+    <end>
+
+[S113] 0x0AE18 (dialog, 53 bytes)
+    <open>やっぱり<br>
+    まだまだ だった ようだな・・・<wait>
+    <clear>さあ・・・<br>
+    みせを てつだって もらうぞ<wait>
+    <end>
+
+[S114] -> same as S102
+
+[S115] 0x0AE4D (dialog, 38 bytes)
+    <open>・・・・・・・・・・・・・・・・・<br>
+    ・・・・・・・・・・・・・・・・・<wait>
+    <end>
+
+[S116] 0x0AE73 (dialog, 53 bytes)
+    <open>ちょっと まってください<br>
+    たくみくん うんてんを おしえるの<br>
+    ほんとうに じょうず なんです<wait>
+    <end>
+
+[S117] 0x0AEA8 (dialog, 44 bytes)
+    <open>そこが あまいんだ<br>
+    ちゅうとはんぱ な こ-ちは<br>
+    かえって きけん なんだ<wait>
+    <end>
+
+[S118] 0x0AED4 (dialog, 64 bytes)
+    <open>そんなこと ないもん!<wait>
+    <clear>なつき たくみくんの おかげで<br>
+    ほんとうに うんてんが<br>
+    じょうずに なったんだから!<wait>
+    <end>
+
+[S119] 0x0AF14 (dialog, 26 bytes)
+    <open>・・・まさか・・・そんな・・・<br>
+    ばかな-っ!<wait>
+    <end>
+
+[S120] 0x0AF2E (dialog, 52 bytes)
+    <open>おれも まだまだ わかいやつ には<br>
+    まけてねぇな・・・やっぱり とうげは<br>
+    いいもんだぜ<wait>
+    <end>
+
+[S121] 0x0AF80 (dialog, 32 bytes)
+    <open>いいとし こいた おやじが<br>
+    なに やってんだか・・・<wait>
+    <end>
+
+[S122] -> same as S102
+
+[S123] -> same as S102
+
+[S124] -> same as S102
+
+[S125] -> same as S102
+
+[S126] -> same as S102
+
+[S127] -> same as S102
+
+[S128] -> same as S102
+
+[S129] 0x0AFBC (dialog, 85 bytes)
+    <open>おっ?<br>
+    どうして おれに そんなこと<br>
+    いうのかな? もしかして・・・<wait>
+    <clear>おれに きが あんのかな?<br>
+    くぅ-っ!ついに おれにも<br>
+    かのじょが できたのか!?<wait>
+    <end>
+
+[S130] 0x0B011 (dialog, 62 bytes)
+    <open>でね でね たくみくんに いうまえに<br>
+    ちょっと でも じょうずに なって<br>
+    たくみくん を おどろかせたいの<wait>
+    <end>
+
+[S131] 0x0B04F (dialog, 33 bytes)
+    <open>が-ん<br>
+    やっぱり そういうこと なのかよ<br>
+    ちくしょ-っ!<wait>
+    <end>
+
+[S132] 0x0B070 (dialog, 40 bytes)
+    <open>だから なつきに うんてんを<br>
+    おしえてほしいの<br>
+    ねっ? お・ね・が・い<wait>
+    <end>
+
+[S133] 0x0B0F2 (dialog, 60 bytes)
+    <open>も- いつきくん どうしてなつきより<br>
+    へたっぴなの? でも ほかのひと<br>
+    しょうかい してくれたし ま・いいか<wait>
+    <end>
+
+[S134] 0x0B143 (dialog, 56 bytes)
+    <open>おっ きたな<br>
+    いつきから きいてるよ<wait>
+    <clear>しかし おんなのこに まけるなんて<br>
+    いつきも まだまだ だな<wait>
+    <end>
+
+[S135] 0x0B17B (dialog, 36 bytes)
+    <open>わたし なつきって いいます<br>
+    きょうは よろしく おねがいします<wait>
+    <end>
+
+[S136] 0x0B27B (dialog, 55 bytes)
+    <open>きゃ-! すぴ-どすた-ず の<br>
+    り-だ- にも かっちゃった!<br>
+    なつき もしかして てんさいかも<wait>
+    <end>
+
+[S137] 0x0B2B2 (dialog, 10 bytes)
+    <open>そのころ・・・<wait>
+    <end>
+
+[S138] 0x0B2BC (dialog, 16 bytes)
+    <open>おじさん! たのみます!<wait>
+    <end>
+
+[S139] 0x0B2CC (dialog, 28 bytes)
+    <open>また あんたか・・・<br>
+    こんどは どうしたって?<wait>
+    <end>
+
+[S140] 0x0B2E8 (dialog, 24 bytes)
+    <open>はなし きいてくれるんすね<br>
+    じつは・・・<wait>
+    <end>
+
+[S141] 0x0B300 (dialog, 11 bytes)
+    <open>・・・・・・・・<wait>
+    <end>
+
+[S142] 0x0B30B (dialog, 55 bytes)
+    <open>おんなのこに まけた? おいおい<br>
+    ちょっとまってくれ そんなことまで<br>
+    いちいち めんどうみきれ・・・<wait>
+    <end>
+
+[S143] 0x0B342 (dialog, 57 bytes)
+    <open>しかも けっこう かわいいんですよ<br>
+    あんなかわいいこに まけたとあっちゃ<br>
+    ほかのみんなに しめしが・・・<wait>
+    <end>
+
+[S144] 0x0B37B (dialog, 46 bytes)
+    <open>(なに? かわいいのか・・・<br>
+    だったら ちょっとは あいてをしても<br>
+    いいかな・・・)<wait>
+    <end>
+
+[S145] 0x0B3A9 (dialog, 44 bytes)
+    <open>・・・だから おじさん!<br>
+    たのみま・・・って あれ?<br>
+    おじさん きいてます?<wait>
+    <end>
+
+[S146] 0x0B3D5 (dialog, 35 bytes)
+    <open>ん? あ・ああ<br>
+    わかった わかった<br>
+    おれが なんとかしてやるよ<wait>
+    <end>
+
+[S147] 0x0B3F8 (dialog, 9 bytes)
+    <open>そして・・・<wait>
+    <end>
+
+[S148] 0x0B401 (dialog, 47 bytes)
+    <open>ばとる? ばとるって なんのこと?<br>
+    いったい なにが<br>
+    どうなってるのかしら・・・<wait>
+    <end>
+
+[S149] 0x0B430 (dialog, 54 bytes)
+    <open>きみが なつきくんだね<br>
+    いけたにくんから はなしはきいている<br>
+    こんどは わたしがあいてになろう<wait>
+    <end>
+
+[S150] 0x0B466 (dialog, 61 bytes)
+    <open>なんか はなしが くいちがってない?<br>
+    なつきはただ くるまのうんてんを<br>
+    おしえてほしかった だけなのに・・・<wait>
+    <end>
+
+[S151] 0x0B4DC (dialog, 57 bytes)
+    <open>まったく なんだったのかしら<br>
+    まあ かんがえるだけ むだかな<br>
+    そろそろ たくみくんを おどろかそう<wait>
+    <end>
+
+[S152] 0x0B515 (dialog, 10 bytes)
+    <open>ぼ-----<wait>
+    <end>
+
+[S153] 0x0B51F (dialog, 29 bytes)
+    <open>たっくみくん!<br>
+    どうしたの? ぼ-っとしちゃって<wait>
+    <end>
+
+[S154] 0x0B53C (dialog, 34 bytes)
+    <open>ん? ああ おまえか<br>
+    おやじが・・・<br>
+    いや なんでもない<wait>
+    <end>
+
+[S155] 0x0B55E (dialog, 37 bytes)
+    <open>???  まあ いいや<br>
+    ねえ たくみくん<br>
+    なつき ね くるまかったの<wait>
+    <end>
+
+[S156] 0x0B583 (dialog, 37 bytes)
+    <open>くるま? そうか・・・<br>
+    ん? くるま? おんなのこ・・・<br>
+    まさか!?<wait>
+    <end>
+
+[S157] 0x0B5A8 (dialog, 33 bytes)
+    <open>ど・どうしちゃたの?<br>
+    きゅうに こわいかおになっちゃって<wait>
+    <end>
+
+[S158] 0x0B5C9 (dialog, 27 bytes)
+    <open>もぎ・・・ちょっと<br>
+    たのみがあるんだけど<wait>
+    <end>
+
+[S159] 0x0B5E4 (dialog, 50 bytes)
+    <open>え? なになに きゅうに<br>
+    も・もしかして えっちなこと?<br>
+    も- たくみくんったら・・・ ぽっ<wait>
+    <end>
+
+[S160] 0x0B616 (dialog, 23 bytes)
+    <open>おれと・・・<br>
+    おれと ばとるしてくれ!<wait>
+    <end>
+
+[S161] 0x0B62D (dialog, 52 bytes)
+    <open>ばと・・・ またそれ?<br>
+    も- くるまにのるひとの あたまって<br>
+    いったい ど-なってんのかしら!<wait>
+    <end>
+
+[S162] 0x0B098 (dialog, 43 bytes)
+    <open>まだまだね・・・<br>
+    これじゃ たくみくんを びっくり<br>
+    させられないな・・・<wait>
+    <end>
+
+[S163] 0x0B0C3 (dialog, 47 bytes)
+    <open>ま・まぁ だいぶ よくなったよね<br>
+    (とほほ- おれって そんなに<br>
+    おそいのかな-?)<wait>
+    <end>
+
+[S164] 0x0B19F (dialog, 39 bytes)
+    <open>さすが ほんものの はしりやさん ね<br>
+    いつきくん とは ちがうわ・・<wait>
+    <end>
+
+[S165] 0x0B1C6 (dialog, 181 bytes)
+    <open>う・うん おんなのこ に しては<br>
+    (けいじどうしゃに まけた けいじど<br>
+    うしゃに まけた けいじどうしゃに)<wait>
+    <clear>うんてん じょうずだね<br>
+    (まけた けいじどうしゃに まけた<br>
+    けいじどうしゃに まけた けいじど)<wait>
+    <clear>また こんど おしえてあげるよ<br>
+    (うしゃに まけた けいじどうしゃに<br>
+    まけた けいじどうしゃに-っ!)<wait>
+    <end>
+
+[S166] 0x0B4A3 (dialog, 36 bytes)
+    <open>・・・くすん<br>
+    うんてん いつになったら<br>
+    おしえて もらえるのかしら<wait>
+    <end>
+
+[S167] 0x0B4C7 (dialog, 21 bytes)
+    <open>(おれも そろそろ いんたいかな・)<wait>
+    <end>
+
+[S168] 0x0B661 (dialog, 52 bytes)
+    <open>こんなの つまんな-い!<br>
+    わたしは たくみくんと たのしく<br>
+    どらいぶ したい だけなのに-!<wait>
+    <end>
+
+[S169] 0x0B695 (dialog, 43 bytes)
+    <open>きゃ-っ やった-!<br>
+    どう?おどろいた?<br>
+    なつき うんてん うまいでしょ?<wait>
+    <end>
+
+[S170] 0x0B6C0 (dialog, 47 bytes)
+    <open>うん・・・<br>
+    (はぁ- けっこう しょっく・・・<br>
+    おやじが おちこむのも わかるよな)<wait>
+    <end>
+
+[S171] 0x0B6EF (dialog, 98 bytes)
+    <open>えへへ・・・<br>
+    さあ たくみくん!こんどは なつきに<br>
+    つきあってもらうわよ!<wait>
+    <clear>まずは- あきなこ に いって-<br>
+    ぼ-とに のって- あいすくり-む<br>
+    たべて- それから え-っと・・・<wait>
+    <end>
+
+[S172] 0x0B751 (dialog, 46 bytes)
+    <open>うん・・・<br>
+    (しかし ひとはみかけに よらないな<br>
+    まさか なつき に まけるとはな-)<wait>
+    <end>
+
+[S173] 0x0B77F (dialog, 33 bytes)
+    <open>もぉ-!なに ぼ-っと してるのよ!<br>
+    さ はやくいこうよ!<wait>
+    <end>
+
+[S174] 0x0B7A0 (dialog, 17 bytes)
+    <open>うん・・・<br>
+    (とほほ・・・)<wait>
+    <end>
+
+[S175] 0x0B7B1 (dialog, 55 bytes)
+    <open>おやじのやろ- かってにへんなこと<br>
+    ひきうけやがって おれなんか<br>
+    まるで ばちがいじゃね-か<wait>
+    <end>
+
+[S176] -> same as S175
+
+[S177] -> same as S175
+
+[S178] -> same as S175
+
+[S179] -> same as S175
+
+[S180] 0x0B81E (dialog, 33 bytes)
+    <open>おれが みた はちろくは<br>
+    こんなもんじゃ ないはずだ<wait>
+    <end>
+
+[S181] 0x0B83F (dialog, 46 bytes)
+    <open>だから ばちがいだって<br>
+    いったのに.....<wait>
+    <clear>なに? もういっかいだって?<wait>
+    <end>
+
+[S182] 0x0B86D (dialog, 36 bytes)
+    <open>このおれが まけるなんて....<br>
+    なにかの まちがいだ...<wait>
+    <end>
+
+[S183] 0x0B8DE (dialog, 24 bytes)
+    <open>あんな はやいくるまに<br>
+    かてるわけ ないよ<wait>
+    <end>
+
+[S184] 0x0B8F6 (dialog, 49 bytes)
+    <open>「けいすけ」との ばとる のときに<br>
+    みせた はしりは どうした?<wait>
+    <clear>もういちど こい!<wait>
+    <end>
+
+[S185] 0x0B927 (dialog, 22 bytes)
+    <open>ましんで かって<br>
+    うでで まけた<wait>
+    <end>
+
+[S186] 0x0B982 (dialog, 27 bytes)
+    <open>はっはっはっ...<wait>
+    <clear>ださいぜ おまえ...<wait>
+    <end>
+
+[S187] 0x0B99D (dialog, 33 bytes)
+    <open>あんなやつに まけたくない!<br>
+    もういちど しょうぶしろ!<wait>
+    <end>
+
+[S188] 0x0B9BE (dialog, 27 bytes)
+    <open>あああああ----<br>
+    おれの くるまが----!<wait>
+    <end>
+
+[S189] 0x0BA28 (dialog, 52 bytes)
+    <open>くやしい...<wait>
+    <clear>こんなきぶんに なったのは<br>
+    はじめてだ<wait>
+    <clear>もういちど おねがいします!<wait>
+    <end>
+
+[S190] 0x0BA5C (dialog, 29 bytes)
+    <open>おまえの はしりには<wait>
+    <clear>お-らが ただよっている<wait>
+    <end>
+
+[S191] 0x0BAAF (dialog, 71 bytes)
+    <open>おんなのこに まけてしまう なんて<br>
+    このままじゃ みんなに<br>
+    なにを いわれるか わからない...<wait>
+    <clear>もういちど しょうぶしてくれ!<wait>
+    <end>
+
+[S192] -> same as S175
+
+[S193] 0x0B7E8 (dialog, 54 bytes)
+    <open>おまえが あのはちろくか・・・<br>
+    ずいぶんわかいな おれは<br>
+    たかはしけいすけ てかげんは しねえ<wait>
+    <end>
+
+[S194] 0x0B891 (dialog, 42 bytes)
+    <open>はしりや とかなんとか<br>
+    ぜんぜん きょうみないのに<br>
+    なんなんだ さいきん<wait>
+    <end>
+
+[S195] 0x0B8BB (dialog, 35 bytes)
+    <open>ないときっずの なかざとだ<br>
+    おれの GTR に かてるか?<wait>
+    <end>
+
+[S196] 0x0B947 (dialog, 30 bytes)
+    <open>いけたにせんぱいを<br>
+    ぶじょくしたのは おまえか?<wait>
+    <end>
+
+[S197] 0x0B965 (dialog, 29 bytes)
+    <open>なんだてめえは?<br>
+    おれにかったら あやまってやるよ<wait>
+    <end>
+
+[S198] 0x0B9D9 (dialog, 33 bytes)
+    <open>まってたぜ かならず<br>
+    きてくれるとは おもってたけどな<wait>
+    <end>
+
+[S199] 0x0B9FA (dialog, 46 bytes)
+    <open>おれは・・・ おれはただ<br>
+    ここに なれてるぶんだけ<br>
+    うまくはしれてるだけです<wait>
+    <end>
+
+[S200] 0x0BA79 (dialog, 44 bytes)
+    <open>ほんとにきみが あのはちろく?<br>
+    しんじらんない-<br>
+    ちょっと わかすぎない-?<wait>
+    <end>
+
+[S201] 0x0BAA5 (dialog, 10 bytes)
+    <open>・・・・・・・<wait>
+    <end>
+
+[S202] 0x0BB21 (dialog, 53 bytes)
+    <open>おまえが けいすけさんに<br>
+    かったなんて おれはみとめね-<br>
+    おれとしょうぶだ ふじわらたくみ!<wait>
+    <end>
+
+[S203] 0x0BB56 (dialog, 15 bytes)
+    <open>いいよ・・・<br>
+    やるよ!!<wait>
+    <end>
+
+[S204] 0x0BBBF (dialog, 53 bytes)
+    <open>おれたちは 「えんぺら-」<br>
+    はちろくと くだりでしょうぶしたい<br>
+    ようきゅうは それだけだ<wait>
+    <end>
+
+[S205] 0x0BBF4 (dialog, 44 bytes)
+    <open>ち-むがどうとか かんけ-ない<br>
+    おれだって にげるのは<br>
+    いやだから・・・<wait>
+    <end>
+
+[S206] 0x0BAF6 (dialog, 43 bytes)
+    <open>あのこ ただものじゃ ないわ<br>
+    あたしたちの まけよ<br>
+    これからが たのしみね<wait>
+    <end>
+
+[S207] 0x0BB65 (dialog, 46 bytes)
+    <open>やばい!<br>
+    おやじに おこられちまうぜ<br>
+    <open>なんなら もういちど<br>
+    やってもいいぜ<wait>
+    <end>
+
+[S208] 0x0BB7C (dialog, 23 bytes)
+    <open>なんなら もういちど<br>
+    やってもいいぜ<wait>
+    <end>
+
+[S209] 0x0BB93 (dialog, 44 bytes)
+    <open>やられた...<br>
+    りょうすけさん と けいすけさん に<br>
+    かっただけのことは あるな<wait>
+    <end>
+
+[S210] 0x0BC20 (dialog, 41 bytes)
+    <open>おれたちの 4WDは むてきだ<br>
+    そんな ふるいくるまに<br>
+    まけるわけがない<wait>
+    <end>
+
+[S211] 0x0BC5D (dialog, 37 bytes)
+    <open>このくるま でも<br>
+    かてるはずだ!<br>
+    ばかに するんじゃねぇ!<wait>
+    <end>
+
+[S212] 0x0BC82 (dialog, 41 bytes)
+    <open>そのご たくみは・・・<br>
+    かずかずの でんせつを<br>
+    うんでいった・・・<wait>
+    <end>
+
+[S213] 0x0BCD9 (dialog, 7 bytes)
+    <open>たくみ!<wait>
+    <end>
+
+[S214] 0x0BCE0 (dialog, 8 bytes)
+    <open>なんだよ<wait>
+    <end>
+
+[S215] 0x0BCE8 (dialog, 41 bytes)
+    <open>おれたちって<br>
+    「さいそく はちろく こんび」<br>
+    って よばれてるのかなぁ?<wait>
+    <end>
+
+[S216] 0x0BD11 (dialog, 25 bytes)
+    <open>そんなの べつに ど-でもい-じゃん<wait>
+    <end>
+
+[S217] 0x0BD2A (dialog, 45 bytes)
+    <open>いやっ きっと よばれてるよ<br>
+    よばれてるに きまってるさ<br>
+    そうに ちがいない!<wait>
+    <end>
+
+[S218] 0x0BD57 (dialog, 29 bytes)
+    <open>(あいかわらず<br>
+    しあわせな やつだよ こいつは)<wait>
+    <end>
+
+[S219] 0x0BD74 (dialog, 8 bytes)
+    <open>くぅ-っ!<wait>
+    <end>
+
+[S220] 0x0BD97 (dialog, 45 bytes)
+    <open>・・・まぁ こうやって<br>
+    おまえと ばか やってるのは<br>
+    おれも いやじゃ ないぜ<wait>
+    <end>
+
+[S221] 0x0BDC4 (dialog, 16 bytes)
+    <open>ばか は よけ-だろっ<wait>
+    <end>
+
+[S222] 0x0BDD4 (dialog, 58 bytes)
+    <open>ははは・・・でも よばれかたなんて<br>
+    かんけいないさ おれたちが<br>
+    いいこんびなのは たしかだから・・・<wait>
+    <end>
+
+[S223] 0x0BE0E (dialog, 22 bytes)
+    <br>
+    <open>INITIAL 'D' GAIDEN<wait>
+    <end>
+
+[O000] 0x0B12E (dialog (no table pointer), 21 bytes)
+    <open>あの- いけたにさん・・・ですか?<wait>
+    <end>
+
+[O001] 0x0B93D (dialog (no table pointer), 10 bytes)
+    <open>かんぱいだ<wait>
+    <end>
+
+[O002] 0x0BC49 (dialog (no table pointer), 20 bytes)
+    <open>くるまを かえて でなおしてこい<wait>
+    <end>
+
+[O003] 0x0BCAB (dialog (no table pointer), 19 bytes)
+    <open>あの 「いつき」と ともに...<wait>
+    <end>
+
+[O004] 0x0BCBE (dialog (no table pointer), 8 bytes)
+    <open>.....<wait>
+    <end>
+
+[O005] 0x0BCC6 (dialog (no table pointer), 9 bytes)
+    <open>......<wait>
+    <end>
+
+[O006] 0x0BCCF (dialog (no table pointer), 10 bytes)
+    <open>.......<wait>
+    <end>
+
+[O007] 0x0BD7C (dialog (no table pointer), 27 bytes)
+    <open>おれたちって さいこうだぜ!<br>
+    なぁ?たくみ!<wait>
+    <end>
+
+[I000] 0x04445 (inline x=14 y=6, 4 bytes)
+    いつき<end>
+
+[I001] 0x04451 (inline x=14 y=6, 5 bytes)
+    ぶんた<end>
+
+[I002] 0x0445E (inline x=14 y=6, 4 bytes)
+    なつき<end>
+
+[I003] 0x0446A (inline x=14 y=6, 4 bytes)
+    たくみ<end>
+
+[I004] 0x044A6 (inline x=14 y=6, 16 bytes)
+    GET THE NEW CAR<end>
+
+[I005] 0x044BD (inline x=14 y=6, 12 bytes)
+         「NO.6」<end>
+
+[I006] 0x044D0 (inline x=14 y=6, 15 bytes)
+    CONGRATULATION<end>
+
+[I007] 0x044E6 (inline x=14 y=6, 13 bytes)
+      THANK  YOU<end>
+
+[I008] 0x04501 (inline x=14 y=6, 16 bytes)
+    GET THE NEW CAR<end>
+
+[I009] 0x04518 (inline x=14 y=6, 15 bytes)
+      「NO.3」「NO.7」<end>
+
+[I010] 0x0452E (inline x=14 y=6, 19 bytes)
+    GET THE NEW COURSE<end>
+
+[I011] 0x04548 (inline x=14 y=6, 11 bytes)
+         「はこね」<end>
+
+[I012] 0x0455A (inline x=14 y=6, 18 bytes)
+    TRY NEXT SCENARIO<end>
+
+[I013] 0x04573 (inline x=14 y=6, 12 bytes)
+         「ぶんた」<end>
+
+[I014] 0x04589 (inline x=14 y=6, 16 bytes)
+    GET THE NEW CAR<end>
+
+[I015] 0x045A0 (inline x=14 y=6, 15 bytes)
+      「NO.4」「NO.5」<end>
+
+[I016] 0x045B6 (inline x=14 y=6, 19 bytes)
+    GET THE NEW COURSE<end>
+
+[I017] 0x045D0 (inline x=14 y=6, 12 bytes)
+         「だるみ」<end>
+
+[I018] 0x045E3 (inline x=14 y=6, 18 bytes)
+    TRY NEXT SCENARIO<end>
+
+[I019] 0x045FC (inline x=14 y=6, 11 bytes)
+         「なつき」<end>
+
+[I020] 0x04611 (inline x=14 y=6, 16 bytes)
+    GET THE NEW CAR<end>
+
+[I021] 0x04628 (inline x=14 y=6, 15 bytes)
+      「NO.1」「NO.2」<end>
+
+[I022] 0x0463E (inline x=14 y=6, 18 bytes)
+    TRY NEXT SCENARIO<end>
+
+[I023] 0x04657 (inline x=14 y=6, 11 bytes)
+         「たくみ」<end>
+
+[I024] 0x052AF (inline x=14 y=6, 7 bytes)
+          <end>
+
+[I025] 0x052C9 (inline x=14 y=6, 7 bytes)
+          <end>
+
+[I026] 0x054D1 (inline x=14 y=6, 5 bytes)
+    だるみ<end>
+
+[I027] 0x054DE (inline x=14 y=6, 4 bytes)
+    あきな<end>
+
+[I028] 0x054EA (inline x=14 y=6, 6 bytes)
+    みょうぎ<end>
+
+[I029] 0x054F8 (inline x=14 y=6, 5 bytes)
+    あかぎ<end>
+
+[I030] 0x05505 (inline x=14 y=6, 4 bytes)
+    うすい<end>
+
+[I031] 0x05511 (inline x=14 y=6, 4 bytes)
+    はこね<end>
+
+[T000] 0x052FA (table, 7 bytes)
+      いつき <end>
+
+[T001] 0x05301 (table, 8 bytes)
+       たくみ <end>
+
+[T002] 0x05309 (table, 8 bytes)
+     まこ&さゆき<end>
+
+[T003] 0x05311 (table, 8 bytes)
+      りょうすけ<end>
+
+[T004] 0x05319 (table, 8 bytes)
+      けいすけ <end>
+
+[T005] 0x05321 (table, 8 bytes)
+      なかざと<end>
+
+[T006] 0x05329 (table, 8 bytes)
+       しんご<end>
+
+[T007] 0x05331 (table, 8 bytes)
+      いけたに <end>
+
+[T008] 0x05339 (table, 8 bytes)
+      きょういち<end>
+
+[T009] 0x05341 (table, 8 bytes)
+       けんた <end>
+
+[T010] 0x05349 (table, 8 bytes)
+       せいじ<end>
+
+[T011] 0x05351 (table, 8 bytes)
+       なつき <end>
+
+[T012] 0x05359 (table, 8 bytes)
+       ぶんた<end>
+
+[T013] 0x05361 (table, 8 bytes)
+       いつき <end>
+
+[T014] 0x05369 (table, 8 bytes)
+       いつき <end>
+
+[T015] 0x05371 (table, 8 bytes)
+       いつき <end>
+
+[T016] 0x058F9 (table, 6 bytes)
+    たくみ  <end>
+
+[T017] 0x05909 (table, 6 bytes)
+    りょうすけ<end>
+
+[T018] 0x05919 (table, 6 bytes)
+    なかざと<end>
+
+[T019] 0x05929 (table, 6 bytes)
+    いけたに <end>
+
+[T020] 0x05939 (table, 6 bytes)
+    いつき  <end>
+
+[T021] 0x05949 (table, 6 bytes)
+    なかざと<end>
+
+[T022] 0x05959 (table, 6 bytes)
+    しんご <end>
+
+[T023] 0x05969 (table, 6 bytes)
+    せいじ <end>
+
+[T024] 0x05979 (table, 6 bytes)
+    けんた  <end>
+
+[T025] 0x05989 (table, 6 bytes)
+    いつき  <end>
+
+[T026] 0x05999 (table, 6 bytes)
+    りょうすけ<end>
+
+[T027] 0x059A9 (table, 6 bytes)
+    けいすけ <end>
+
+[T028] 0x059B9 (table, 6 bytes)
+    きょういち<end>
+
+[T029] 0x059C9 (table, 6 bytes)
+    けんた  <end>
+
+[T030] 0x059D9 (table, 6 bytes)
+    いつき  <end>
+
+[T031] 0x059E9 (table, 7 bytes)
+    まこ&さゆき<end>
+
+[T032] 0x059F9 (table, 6 bytes)
+    きょういち<end>
+
+[T033] 0x05A09 (table, 6 bytes)
+    なかざと<end>
+
+[T034] 0x05A19 (table, 6 bytes)
+    いけたに <end>
+
+[T035] 0x05A29 (table, 6 bytes)
+    いつき  <end>
+
+[T036] 0x05A39 (table, 6 bytes)
+    RUN-F<end>
+
+[T037] 0x05A49 (table, 6 bytes)
+    COOLD<end>
+
+[T038] 0x05A59 (table, 6 bytes)
+    M-MIX<end>
+
+[T039] 0x05A69 (table, 6 bytes)
+    KP-F <end>
+
+[T040] 0x05A79 (table, 6 bytes)
+    DP2  <end>
+
+[T041] 0x05A89 (table, 6 bytes)
+    SHINE<end>
+
+[T042] 0x05A99 (table, 6 bytes)
+    DUST <end>
+
+[T043] 0x05AA9 (table, 6 bytes)
+    ILINE<end>
+
+[T044] 0x05AB9 (table, 6 bytes)
+    SLIP <end>
+
+[T045] 0x05AC9 (table, 6 bytes)
+    G-ONE<end>
+
+[T046] 0x05E1C (table, 20 bytes)
+           STAFF       <end>
+
+[T047] 0x05E30 (table, 20 bytes)
+       ORIGINAL STORY  <end>
+
+[T048] 0x05E44 (table, 20 bytes)
+      SHUICHI SHIGENO  <end>
+
+[T049] 0x05E6C (table, 20 bytes)
+      GENERAL MANAGER  <end>
+
+[T050] 0x05E80 (table, 20 bytes)
+       TERUO MIYAHARA  <end>
+
+[T051] 0x05EA8 (table, 20 bytes)
+     EXECTIVE PRODUCER <end>
+
+[T052] 0x05EBC (table, 20 bytes)
+       YASUO KATSUKI   <end>
+
+[T053] 0x05EE4 (table, 20 bytes)
+          PRODUCER     <end>
+
+[T054] 0x05EF8 (table, 20 bytes)
+      SHIGERU HIROOKA  <end>
+
+[T055] 0x05F0C (table, 20 bytes)
+       TAMAO TSUCHIYA  <end>
+
+[T056] 0x05F20 (table, 20 bytes)
+     TAKEHIRO MORIYAMA <end>
+
+[T057] 0x05F48 (table, 20 bytes)
+          DIRECTOR     <end>
+
+[T058] 0x05F5C (table, 20 bytes)
+      HIROSHI KITAYAMA <end>
+
+[T059] 0x05F84 (table, 20 bytes)
+          PLANNER      <end>
+
+[T060] 0x05F98 (table, 20 bytes)
+      TOMOMI SEKIGUCHI <end>
+
+[T061] 0x05FAC (table, 20 bytes)
+       SHINYA TAKAGI   <end>
+
+[T062] 0x05FD4 (table, 20 bytes)
+         PROGRAMMER    <end>
+
+[T063] 0x05FE8 (table, 20 bytes)
+          BAKABON      <end>
+
+[T064] 0x06010 (table, 20 bytes)
+          DESIGNER     <end>
+
+[T065] 0x06024 (table, 20 bytes)
+       KAITO UDAGAWA   <end>
+
+[T066] 0x06038 (table, 20 bytes)
+        KENJI YAMADA   <end>
+
+[T067] 0x06060 (table, 20 bytes)
+     CAR DESIGN ADVICE <end>
+
+[T068] 0x06074 (table, 20 bytes)
+        TOHRU OZAKI    <end>
+
+[T069] 0x0609C (table, 20 bytes)
+           SOUND       <end>
+
+[T070] 0x060B0 (table, 20 bytes)
+            GETS       <end>
+
+[T071] 0x060D8 (table, 20 bytes)
+       SOUND DESIGNER  <end>
+
+[T072] 0x060EC (table, 20 bytes)
+     TOYOKAZU NAGAISHI <end>
+
+[T073] 0x06114 (table, 20 bytes)
+      QUARITY CONTROL  <end>
+
+[T074] 0x06128 (table, 20 bytes)
+      TSUGUHIDE ANBAI  <end>
+
+[T075] 0x0613C (table, 20 bytes)
+        YUJI ISHIGE    <end>
+
+[T076] 0x06150 (table, 20 bytes)
+       TAKASHI OHTANI  <end>
+
+[T077] 0x06178 (table, 20 bytes)
+     MARKETING DIRECTOR<end>
+
+[T078] 0x0618C (table, 20 bytes)
+      MASAAKI ISHIKAWA <end>
+
+[T079] 0x061A0 (table, 20 bytes)
+     MASAICHI ROPPONGI <end>
+
+[T080] 0x061C8 (table, 20 bytes)
+     MARKETING ADVISER <end>
+
+[T081] 0x061DC (table, 20 bytes)
+       YASUMI SUZUKI   <end>
+
+[T082] 0x061F0 (table, 20 bytes)
+        MASAMI OHNO    <end>
+
+[T083] 0x06218 (table, 20 bytes)
+         PROMOTION     <end>
+
+[T084] 0x0622C (table, 20 bytes)
+      YOUZOU TAKAHASHI <end>
+
+[T085] 0x06240 (table, 20 bytes)
+      TAKAYUKI SHIRATO <end>
+
+[T086] 0x06254 (table, 20 bytes)
+         AKIO ITOU     <end>
+
+[T087] 0x06268 (table, 20 bytes)
+      FUMITAKA TSUBATA <end>
+
+[T088] 0x06290 (table, 20 bytes)
+       SPECIAL THANKS  <end>
+
+[T089] 0x062A4 (table, 20 bytes)
+       HAJIME TAMIYA   <end>
+
+[T090] 0x062B8 (table, 20 bytes)
+       KEIICHI KIMURA  <end>
+
+[T091] 0x062CC (table, 20 bytes)
+      NORIYUKI OKAZAKI <end>
+
+[T092] 0x062E0 (table, 20 bytes)
+    YOSHINOBU YAMASHITA<end>
+
+[T093] 0x062F4 (table, 20 bytes)
+        RUNNING FREE   <end>
+
+[T094] 0x0631C (table, 20 bytes)
+         CREATED BY    <end>
+
+[T095] 0x06330 (table, 20 bytes)
+            MTO        <end>
+
+[T096] 0x06358 (table, 20 bytes)
+        PRESENTED BY   <end>
+
+[T097] 0x0636C (table, 20 bytes)
+          KODANSHA     <end>
+
+[T098] 0x063BC (table, 21 bytes)
+    「INITIAL 'D' GAIDEN」<end>
+
+[T099] 0x063F9 (table, 20 bytes)
+            END        <end>
+
+[T100] 0x0658B (table, 3 bytes)
+    へせ<end>
+
+[G000] 0x05CFB (name-entry grid, 98 bytes)
+    あかさたなはまやらわいきしちにひみゆりんうくすつぬふむよるをえけせてねへめ-れ゙おこそとのほも.ろ゚ぁぃぅぇぉゃゅょっ 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ!'
+
+[W16] 0x10F6D (window 20x18, tiles start 3 bytes after the header)
+    ··┌────────┐········
+    ··│·RECORD·│········
+    ··└────────┘········
+    ····················
+    1···'··▒········▒▒▒▒
+    ················▒▒▒▒
+    2···'··▒········▒▒▒▒
+    ················▒▒▒▒
+    3···'··▒········▒▒▒▒
+    ················▒▒▒▒
+    4···'··▒········▒▒▒▒
+    ················▒▒▒▒
+    5···'··▒········▒▒▒▒
+    ················▒▒▒▒
+    ·┌─こんかいのきろく───────┐·
+    ·│········'··▒····│·
+    ·└────────────────┘·
+    ····················
+
+[W17] 0x110D8 (window 14x8, tiles start 3 bytes after the header)
+    ┌────────────┐
+    │·゛····゛·····│
+    │·こ-すとをたしますか?│
+    │············│
+    │······はい····│
+    │······いいえ···│
+    │············│
+    └────────────┘
+
+[W18] 0x1114B (window 16x8, tiles start 3 bytes after the header)
+    ┌──────────────┐
+    │·゛·····゛······│
+    │·こ-すとをほそんしますか?│
+    │··············│
+    │·······はい·····│
+    │·······いいえ····│
+    │··············│
+    └──────────────┘
+
+[W19] 0x111CE (window 16x16, tiles start 3 bytes after the header)
+    ┌──────────────┐
+    │·····゛···゛····│
+    │·あいてのこ-すとて-たを·│
+    │··············│
+    │·うけとります゜······│
+    │·····゛···゛····│
+    │·あなたのこ-すとて-たは·│
+    │··········゛···│
+    │·しょうきょされますか···│
+    │···゛··········│
+    │·いいてすか?·······│
+    │··············│
+    │·······はい·····│
+    │·······いいえ····│
+    │··············│
+    └──────────────┘
+
+[W20] 0x112D1 (window 16x10, tiles start 3 bytes after the header)
+    ┌──────────────┐
+    │···゛··゛·······│
+    │·おたかいのへすとたいむを·│
+    │··············│
+    │·しゅうけいしますか?···│
+    │··············│
+    │·······はい·····│
+    │·······いいえ····│
+    │··············│
+    └──────────────┘
+
+[W21] 0x11374 (window 12x7, tiles start 3 bytes after the header)
+    ┌───────────
+    │·····゛···゛·
+    │·あなたのこ-すとて-
+    │···········
+    │·おくります·····
+    │···········
+    └───────────
+
+[W22] 0x113CB (window 14x10, tiles start 3 bytes after the header)
+    ┌────────────┐
+    │·····゛······│
+    │·もういちとちょうせん·│
+    │············│
+    │·しますか?······│
+    │············│
+    │······はい····│
+    │······いいえ···│
+    │············│
+    └────────────┘
+
+[W25] 0x115F8 (window 16x10, tiles start 3 bytes after the header)
+    ┌──────────────┐
+    │··゛···゛·゛·····│
+    │·すへてのほそんて-たを··│
+    │··············│
+    │·しょうきょしますか?···│
+    │··············│
+    │·······はい·····│
+    │·······いいえ····│
+    │··············│
+    └──────────────┘
+
+[W27] 0x1175E (window 21x18, tiles start 3 bytes after the header)
+    ·····┌──────────┐····
+    ·····│なまえ·にゅうりょく│····
+    ┌───────────────────┐
+    │あ·か·さ·た·な·は·ま·や·ら·わ│
+    │い·き·し·ち·に·ひ·み·ゆ·り·ん│
+    │う·く·す·つ·ぬ·ふ·む·よ·る·を│
+    │え·け·せ·て·ね·へ·め·-·れ·゛│
+    │お·こ·そ·と·の·ほ·も·.·ろ·゜│
+    │ぁ·ぃ·ぅ·ぇ·ぉ·ゃ·ゅ·ょ·っ··│
+    │0·1·2·3·4·5·6·7·8·9│
+    │A·B·C·D·E·F·G·H·I·J│
+    │K·L·M·N·O·P·Q·R·S·T│
+    │U·V·W·X·Y·Z·!·'·▒·▒│
+    └───────────────────┘
+    ········│なまえをいれてね│···
+    ········│········│···
+    ········│··_____·│···
+    ········└────────┘···
+
+[W34] 0x11BE9 (window 13x7, tiles start 3 bytes after the header)
+    ┌───────────┐
+    │··゛·゛······│
+    │·ほそんて-たを···│
+    │···········│
+    │·しょうきょしました·│
+    │···········│
+    └───────────┘
+
+[W35] 0x11C47 (window 14x7, tiles start 3 bytes after the header)
+    ┌────────────┐
+    │············│
+    │·つうしんたいきちゅう·│
+    │············│
+    │············│
+    │············│
+    └────────────┘
+
+[W37] 0x11CCD (window 16x8, tiles start 3 bytes after the header)
+    ┌──────────────┐
+    │·゛···゛········│
+    │·こ-すとて-たを·····│
+    │··············│
+    │·······うけとります·│
+    │·······おくります··│
+    │··············│
+    └──────────────┘
+
+[W38] 0x11D50 (window 16x7, tiles start 3 bytes after the header)
+    ┌──────────────┐
+    │·····゛···゛····│
+    │·あなたのこ-すとて-たを·│
+    │··············│
+    │·おくります········│
+    │··············│
+    └──────────────┘
+
+[W39] 0x11DC3 (window 12x7, tiles start 3 bytes after the header)
+    ┌──────────┐
+    │·゛···゛··゛·│
+    │·こ-すとて-たか·│
+    │··········│
+    │·ありません····│
+    │··········│
+    └──────────┘
+

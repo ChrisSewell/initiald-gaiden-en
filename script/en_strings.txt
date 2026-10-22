@@ -1,0 +1,167 @@
+# English for the non-dialog strings (bank 1).
+# Format: <id> = <text>
+#   ^text    center the text in the original field width
+#   text     left-align and pad with spaces to the original width
+#   KEEP     leave the original bytes alone (already English, or not text)
+# Budget = original length in bytes, minus the <end> byte. English is one
+# byte per character.
+#   I*  inline strings (printed by call $0CE0). Too long = needs relocating
+#       (a code patch); the merge tool reports how many extra bytes.
+#   T*  fixed-size table records. Must fit.
+#   G000 name-entry grid. Must be exactly the original size.
+# 「 」 stay drawable: lowercase goes in kana slots 0xA6 and up, so the
+# punctuation tiles at 0xA1-0xA5 (。「」、・) are kept.
+
+# Scenario names (scenario select)
+I000 = Itsuki
+I001 = Bunta
+I002 = Natsuki
+I003 = Takumi
+
+# Results screen
+I004 = KEEP
+I005 = ^CAR No.6
+I006 = KEEP
+I007 = KEEP
+I008 = KEEP
+I009 = ^No.3 & No.7
+I010 = KEEP
+I011 = ^HAKONE
+I012 = KEEP
+I013 = ^BUNTA
+I014 = KEEP
+I015 = ^No.4 & No.5
+I016 = KEEP
+I017 = ^DARUMI
+I018 = KEEP
+I019 = ^NATSUKI
+I020 = KEEP
+I021 = ^No.1 & No.2
+I022 = KEEP
+I023 = ^TAKUMI
+I024 = KEEP
+I025 = KEEP
+
+# Course names (course select). DARUMI: real-world course not confirmed.
+I026 = Darumi
+I027 = Akina
+I028 = Myogi
+I029 = Akagi
+I030 = Usui
+I031 = Hakone
+
+# Rival names, 7-character records. Given names, as the series uses for most
+# of the cast. Nakazato doesn't fit, so he's "Takeshi" (Takeshi Nakazato).
+T000 = ^Itsuki
+T001 = ^Takumi
+T002 = ^Mako
+T003 = ^Ryosuke
+T004 = ^Keisuke
+T005 = ^Takeshi
+T006 = ^Shingo
+T007 = ^Iketani
+T008 = ^Kyoichi
+T009 = ^Kenta
+T010 = ^Seiji
+T011 = ^Natsuki
+T012 = ^Bunta
+T013 = ^Itsuki
+T014 = ^Itsuki
+T015 = ^Itsuki
+
+# Default time-attack records, 5-character names (arcade-style tags).
+T016 = TAKU
+T017 = RYO
+T018 = NAKA
+T019 = IKE
+T020 = ITSU
+T021 = NAKA
+T022 = SHIN
+T023 = SEIJI
+T024 = KENTA
+T025 = ITSU
+T026 = RYO
+T027 = KEI
+T028 = KYO
+T029 = KENTA
+T030 = ITSU
+T031 = MAKO
+T032 = KYO
+T033 = NAKA
+T034 = IKE
+T035 = ITSU
+
+# Already English (setup or track names).
+T036 = KEEP
+T037 = KEEP
+T038 = KEEP
+T039 = KEEP
+T040 = KEEP
+T041 = KEEP
+T042 = KEEP
+T043 = KEEP
+T044 = KEEP
+T045 = KEEP
+
+# Staff credits: already English. Two typos in the original fixed.
+T046 = KEEP
+T047 = KEEP
+T048 = KEEP
+T049 = KEEP
+T050 = KEEP
+T051 = ^EXECUTIVE PRODUCER
+T052 = KEEP
+T053 = KEEP
+T054 = KEEP
+T055 = KEEP
+T056 = KEEP
+T057 = KEEP
+T058 = KEEP
+T059 = KEEP
+T060 = KEEP
+T061 = KEEP
+T062 = KEEP
+T063 = KEEP
+T064 = KEEP
+T065 = KEEP
+T066 = KEEP
+T067 = KEEP
+T068 = KEEP
+T069 = KEEP
+T070 = KEEP
+T071 = KEEP
+T072 = KEEP
+T073 = ^QUALITY CONTROL
+T074 = KEEP
+T075 = KEEP
+T076 = KEEP
+T077 = KEEP
+T078 = KEEP
+T079 = KEEP
+T080 = KEEP
+T081 = KEEP
+T082 = KEEP
+T083 = KEEP
+T084 = KEEP
+T085 = KEEP
+T086 = KEEP
+T087 = KEEP
+T088 = KEEP
+T089 = KEEP
+T090 = KEEP
+T091 = KEEP
+T092 = KEEP
+T093 = KEEP
+T094 = KEEP
+T095 = KEEP
+T096 = KEEP
+T097 = KEEP
+T098 = KEEP
+T099 = KEEP
+# Not text: code bytes that happen to look like kana.
+T100 = KEEP
+
+# Name-entry grid: 10 columns, 98 cells, read row by row. The six kana rows
+# become lowercase and punctuation; digits and capitals stay where they are.
+# Every row is 10 characters; the last row is 8.
+G000 = GRID abcdefghij|klmnopqrst|uvwxyz.-'!|?&:,+()*#@|          |          |0123456789|ABCDEFGHIJ|KLMNOPQRST|UVWXYZ!'

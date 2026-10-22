@@ -1,0 +1,102 @@
+# English for the bank 4 window tilemaps (table at 0x10000, header 08 W-1 H-1).
+# These store tile numbers, so each row has a fixed width.
+#   Wnn.r = text    write text into the box interior of row r (columns 1..W-2),
+#                   padded with spaces. Row 0 is the top border.
+#   Wnn.r := text   replace the whole row (exactly W characters).
+#                   ┌─┐│└┘ draw the box border, ~ keeps the original tile.
+# The build fails if any kana or dakuten tile is left in a translated window.
+# Yes/No and Receive/Send stay in the original columns, where the cursor goes.
+
+# Results: "this run's record" label in the lower box border
+W16.14 := ·┌─THIS RUN───────┐·
+
+# Text goes on the original text rows; the dakuten rows above them stay blank
+# so lines don't touch.
+
+# "Show the ghost car?"
+W17.1 = 
+W17.2 =  Show ghost?
+W17.4 =       Yes
+W17.5 =       No
+
+# "Save the ghost car?"
+W18.1 = 
+W18.2 =  Save ghost?
+W18.4 =        Yes
+W18.5 =        No
+
+# "Receive the rival's ghost data? Yours will be erased. OK?"
+W19.1 = 
+W19.2 =  Get rival's
+W19.3 = 
+W19.4 =  ghost data?
+W19.5 = 
+W19.6 =  Yours will be
+W19.7 = 
+W19.8 =  erased.
+W19.9 = 
+W19.10 =  Is that OK?
+W19.12 =        Yes
+W19.13 =        No
+
+# "Compare each other's best times?"
+W20.1 = 
+W20.2 =  Compare best
+W20.4 =  times?
+W20.6 =        Yes
+W20.7 =        No
+
+# "Sending your ghost data" (box has no right border)
+W21.1 = 
+W21.2 =  Sending
+W21.4 =  your data
+
+# "Try again?"
+W22.1 = 
+W22.2 =  Try again?
+W22.4 = 
+W22.6 =       Yes
+W22.7 =       No
+
+# "Erase all save data?"
+W25.1 = 
+W25.2 =  Erase all
+W25.4 =  save data?
+W25.6 =        Yes
+W25.7 =        No
+
+# Name entry. The grid must match G000 in en_strings.txt cell for cell.
+W27.1 := ·····│Name Entry│····
+W27.3 := │a·b·c·d·e·f·g·h·i·j│
+W27.4 := │k·l·m·n·o·p·q·r·s·t│
+W27.5 := │u·v·w·x·y·z·.·-·'·!│
+W27.6 := │?·&·:·,·+·(·)·*·#·@│
+W27.7 := │···················│
+W27.8 := │···················│
+W27.14 := ········│·Name?··│···
+W27.15 := ········│········│···
+
+# "Save data erased."
+W34.1 = 
+W34.2 =  Save data
+W34.4 =  erased.
+
+# "Waiting for link partner"
+W35.2 =  Waiting for
+W35.4 =  partner...
+
+# "Ghost data: Receive / Send"
+W37.1 = 
+W37.2 =  Ghost data
+W37.4 =        Receive
+W37.5 =        Send
+
+# "Sending your ghost data"
+W38.1 = 
+W38.2 =  Sending your
+W38.4 =  ghost data...
+
+# "No ghost data"
+W39.1 = 
+W39.2 =  No ghost
+W39.4 =  data.

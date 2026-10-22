@@ -1,0 +1,391 @@
+{
+  "_doc": [
+    "Kanji/kana menu graphics redrawn in English by tools/menus.py.",
+    "tileset: ROM offset of the 4 KB tile block the screen loads; a tile's data is at tileset + (VRAM address & 0xFFF).",
+    "signed: true if the screen uses 8800 addressing (LCDC bit 4 = 0), so tile t is at 0x9000 + signed(t)*16.",
+    "cells: tilemap rows (screen row -> {first column, tile numbers}); only these tiles get rewritten.",
+    "  Cells using the shared blank tile 00 are not listed, so ink there is an error.",
+    "clear: screen pixel rectangle [x0, y0, x1, y1] (inclusive) blanked before drawing.",
+    "lines: text drawn in the font/menu5x7.txt font; y is the top pixel; x is the left pixel or \"center\" around cx.",
+    "Positions come from PyBoy captures of the original screens.",
+    "ink/paper: colors for text and the cleared box (default 3 on 0). Course names are white (0) on black (3)."
+  ],
+  "screens": [
+    {
+      "name": "title menu",
+      "tileset": "0x16000",
+      "signed": true,
+      "cells": {
+        "7": [
+          7,
+          "53 54 55 56 57 58"
+        ],
+        "8": [
+          5,
+          "61 62 63 64 65 66 67 68 69 6a"
+        ],
+        "9": [
+          5,
+          "71 72 73 74 75 76 77 78 79 7a"
+        ],
+        "10": [
+          8,
+          "82 83 84 85"
+        ],
+        "11": [
+          6,
+          "90 91 92 93 94 95 96 80"
+        ],
+        "12": [
+          6,
+          "59 5a 5b 5c 5d 5e 6e 6f"
+        ]
+      },
+      "clear": [
+        40,
+        56,
+        119,
+        103
+      ],
+      "cx": 80,
+      "lines": [
+        {
+          "text": "SCENARIO",
+          "x": "center",
+          "y": 59
+        },
+        {
+          "text": "TIME ATTACK",
+          "x": "center",
+          "y": 70
+        },
+        {
+          "text": "LINK",
+          "x": "center",
+          "y": 82
+        },
+        {
+          "text": "OPTIONS",
+          "x": "center",
+          "y": 94
+        }
+      ]
+    },
+    {
+      "name": "continue / new game",
+      "tileset": "0x16000",
+      "signed": true,
+      "cells": {
+        "9": [
+          7,
+          "da db dc dd de df"
+        ],
+        "10": [
+          7,
+          "ea eb ec ed ee ef"
+        ],
+        "11": [
+          7,
+          "fa fb fc fd fe ff"
+        ]
+      },
+      "clear": [
+        56,
+        72,
+        103,
+        95
+      ],
+      "cx": 80,
+      "lines": [
+        {
+          "text": "CONTINUE",
+          "x": "center",
+          "y": 74
+        },
+        {
+          "text": "NEW GAME",
+          "x": "center",
+          "y": 86
+        }
+      ]
+    },
+    {
+      "name": "options",
+      "tileset": "0x14000",
+      "signed": true,
+      "cells": {
+        "8": [
+          7,
+          "e0 e1 e2 e3 e4 e5"
+        ],
+        "9": [
+          7,
+          "f0 f1 f2 f3 f4 f5"
+        ],
+        "10": [
+          7,
+          "e6 e7 e8 e9 ea eb"
+        ],
+        "11": [
+          7,
+          "f6 f7 f8 f9 fa fb"
+        ],
+        "12": [
+          7,
+          "86 87 88 89 8a 8b"
+        ]
+      },
+      "clear": [
+        56,
+        64,
+        103,
+        103
+      ],
+      "cx": 80,
+      "lines": [
+        {
+          "text": "RECORDS",
+          "x": "center",
+          "y": 66
+        },
+        {
+          "text": "SOUND",
+          "x": "center",
+          "y": 78
+        },
+        {
+          "text": "ERASE",
+          "x": "center",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "name": "car shop speech bubble",
+      "tileset": "0x17000",
+      "signed": true,
+      "cells": {
+        "10": [
+          10,
+          "01 02 03 04 05 06 07 08 09"
+        ],
+        "11": [
+          10,
+          "11 12 13 14 15 16 17 -- 19"
+        ],
+        "12": [
+          10,
+          "21 22 23 24 25 26 27 28 29"
+        ],
+        "13": [
+          9,
+          "30 31 32 33 34 35 36 37 38 39"
+        ]
+      },
+      "clear": [
+        81,
+        81,
+        150,
+        108
+      ],
+      "lines": [
+        {
+          "text": "WHICH CAR",
+          "x": 85,
+          "y": 85
+        },
+        {
+          "text": "TO PICK?",
+          "x": 85,
+          "y": 97
+        }
+      ]
+    },
+    {
+      "name": "course select: akina",
+      "tileset": "0x24000",
+      "signed": true,
+      "cells": {
+        "13": [
+          2,
+          "c0 c1 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce cf"
+        ],
+        "14": [
+          2,
+          "d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df"
+        ]
+      },
+      "clear": [
+        70,
+        104,
+        118,
+        117
+      ],
+      "cx": 94,
+      "ink": 0,
+      "paper": 3,
+      "lines": [
+        {
+          "text": "AKINA",
+          "x": "center",
+          "y": 108
+        }
+      ]
+    },
+    {
+      "name": "course select: myogi",
+      "tileset": "0x25000",
+      "signed": true,
+      "cells": {
+        "13": [
+          2,
+          "c0 c1 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce cf"
+        ],
+        "14": [
+          2,
+          "d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df"
+        ]
+      },
+      "clear": [
+        54,
+        104,
+        116,
+        117
+      ],
+      "cx": 85,
+      "ink": 0,
+      "paper": 3,
+      "lines": [
+        {
+          "text": "MYOGI",
+          "x": "center",
+          "y": 108
+        }
+      ]
+    },
+    {
+      "name": "course select: akagi",
+      "tileset": "0x26000",
+      "signed": true,
+      "cells": {
+        "13": [
+          2,
+          "c0 c1 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce cf"
+        ],
+        "14": [
+          2,
+          "d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df"
+        ]
+      },
+      "clear": [
+        70,
+        104,
+        118,
+        117
+      ],
+      "cx": 94,
+      "ink": 0,
+      "paper": 3,
+      "lines": [
+        {
+          "text": "AKAGI",
+          "x": "center",
+          "y": 108
+        }
+      ]
+    },
+    {
+      "name": "course select: usui",
+      "tileset": "0x27000",
+      "signed": true,
+      "cells": {
+        "13": [
+          2,
+          "c0 c1 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce cf"
+        ],
+        "14": [
+          2,
+          "d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df"
+        ]
+      },
+      "clear": [
+        70,
+        104,
+        118,
+        117
+      ],
+      "cx": 94,
+      "ink": 0,
+      "paper": 3,
+      "lines": [
+        {
+          "text": "USUI",
+          "x": "center",
+          "y": 108
+        }
+      ]
+    },
+    {
+      "name": "course select: hakone",
+      "tileset": "0x28000",
+      "signed": true,
+      "cells": {
+        "13": [
+          2,
+          "c0 c1 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce cf"
+        ],
+        "14": [
+          2,
+          "d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df"
+        ]
+      },
+      "clear": [
+        70,
+        104,
+        118,
+        117
+      ],
+      "cx": 94,
+      "ink": 0,
+      "paper": 3,
+      "lines": [
+        {
+          "text": "HAKONE",
+          "x": "center",
+          "y": 108
+        }
+      ]
+    },
+    {
+      "name": "course select: darumi",
+      "tileset": "0x29000",
+      "signed": true,
+      "cells": {
+        "13": [
+          2,
+          "c0 c1 c2 c3 c4 c5 c6 c7 c8 c9 ca cb cc cd ce cf"
+        ],
+        "14": [
+          2,
+          "d0 d1 d2 d3 d4 d5 d6 d7 d8 d9 da db dc dd de df"
+        ]
+      },
+      "clear": [
+        78,
+        104,
+        126,
+        117
+      ],
+      "cx": 102,
+      "ink": 0,
+      "paper": 3,
+      "lines": [
+        {
+          "text": "DARUMI",
+          "x": "center",
+          "y": 108
+        }
+      ]
+    }
+  ]
+}
